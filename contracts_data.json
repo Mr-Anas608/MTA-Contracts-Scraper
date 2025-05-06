@@ -1,0 +1,1145 @@
+[
+    {
+        "e30645": {
+            "contract_info": {
+                "contract_description": "Design and Construction Services for Escalator Replacements in Manhattan and Queens",
+                "contract_number": "E30645",
+                "organization": "MTA Construction & Development",
+                "status": "Open",
+                "dates": "12/29/2022 to 8/22/2025",
+                "prime_contractor": "J-Track LLC"
+            },
+            "award_summary": {
+                "prime_contract": {
+                    "award": "$48,394,000",
+                    "award_percentage": "",
+                    "payments": "$38,795,897",
+                    "payments_percentage": "",
+                    "difference": ""
+                },
+                "for_credit": {
+                    "award": "$10,646,680",
+                    "award_percentage": "22.0%",
+                    "payments": "$7,081,574",
+                    "payments_percentage": "18.3%",
+                    "difference": "3.7% below goal"
+                },
+                "for_credit_to_mbe_goal": {
+                    "award": "$4,839,400",
+                    "award_percentage": "10.0%",
+                    "payments": "$5,508,970",
+                    "payments_percentage": "14.2%",
+                    "difference": "4.2% above goal"
+                },
+                "for_credit_to_sdvob_goal": {
+                    "award": "$967,880",
+                    "award_percentage": "2.0%",
+                    "payments": "$0",
+                    "payments_percentage": "0.0%",
+                    "difference": "2.0% below goal"
+                },
+                "for_credit_to_wbe_goal": {
+                    "award": "$4,839,400",
+                    "award_percentage": "10.0%",
+                    "payments": "$1,572,604",
+                    "payments_percentage": "4.1%",
+                    "difference": "5.9% below goal"
+                }
+            },
+            "subcontractors": [
+                {
+                    "name": "AI ENGINEERS, INC DBA N/A",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$625,000 (1.3%)",
+                    "paid_amount": "$566,203 (1.5%)"
+                },
+                {
+                    "name": "All Points Communications, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$366,623 (0.8%)",
+                    "paid_amount": "$252,101 (0.6%)"
+                },
+                {
+                    "name": "APC Specialist, LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$117,000 (0.2%)",
+                    "paid_amount": "$143,800 (0.4%)"
+                },
+                {
+                    "name": "C. B. Mills Electric LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$6,499,000 (13.4%)",
+                    "paid_amount": "$4,262,656 (11.0%)"
+                },
+                {
+                    "name": "Clifford Mason DBA Mase Fx",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$40,200 (0.1%)",
+                    "paid_amount": "$31,600 (0.1%)"
+                },
+                {
+                    "name": "Columbia Equipment Co., Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$1,168,550 (2.4%)",
+                    "paid_amount": "$810,459 (2.1%)"
+                },
+                {
+                    "name": "Geri Goldman Engineering, P.C. DBA GG Engineering",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$142,500 (0.3%)",
+                    "paid_amount": "$137,121 (0.4%)"
+                },
+                {
+                    "name": "Industry Safety Consultants, LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$500,000 (1.0%)",
+                    "paid_amount": "$312,977 (0.8%)"
+                },
+                {
+                    "name": "KS Engineers, P.C.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$180,814 (0.4%)",
+                    "paid_amount": "$231,926 (0.6%)"
+                },
+                {
+                    "name": "L B Consulting Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$70,000 (0.1%)",
+                    "paid_amount": "$51,904 (0.1%)"
+                },
+                {
+                    "name": "Professional Touch NYC LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$40,010 (0.1%)",
+                    "paid_amount": "$35,555 (0.1%)"
+                },
+                {
+                    "name": "Providence Construction Corp.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$189,245 (0.4%)",
+                    "paid_amount": "$141,664 (0.4%)"
+                },
+                {
+                    "name": "Seiko Iron Works, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$583,100 (1.2%)",
+                    "paid_amount": "$103,607 (0.3%)"
+                },
+                {
+                    "name": "Smalls Electrical Construction, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$6,075,000 (12.6%)",
+                    "paid_amount": "$0 (0.0%)"
+                }
+            ]
+        }
+    },
+    {
+        "p36719": {
+            "contract_info": {
+                "contract_description": "82nd Rd Sub Renewal, 13th St Sub Renewal & Repl. of the High-Tension Switchgear at Seeley Substation",
+                "contract_number": "P36719",
+                "organization": "MTA Construction & Development",
+                "status": "Open",
+                "dates": "4/28/2023 to 5/27/2025",
+                "prime_contractor": "E-J Electric Installation Co."
+            },
+            "award_summary": {
+                "prime_contract": {
+                    "award": "$35,883,775",
+                    "award_percentage": "",
+                    "payments": "$19,798,219",
+                    "payments_percentage": "",
+                    "difference": ""
+                },
+                "for_credit": {
+                    "award": "$10,765,133",
+                    "award_percentage": "30.0%",
+                    "payments": "$5,998,316",
+                    "payments_percentage": "30.3%",
+                    "difference": "0.3% above goal"
+                },
+                "for_credit_to_mbe_goal": {
+                    "award": "$5,382,566",
+                    "award_percentage": "15.0%",
+                    "payments": "$3,265,937",
+                    "payments_percentage": "16.5%",
+                    "difference": "1.5% above goal"
+                },
+                "for_credit_to_sdvob_goal": {
+                    "award": "$0",
+                    "award_percentage": "0.0%",
+                    "payments": "$1,461,075",
+                    "payments_percentage": "7.4%",
+                    "difference": "7.4% above goal"
+                },
+                "for_credit_to_wbe_goal": {
+                    "award": "$5,382,566",
+                    "award_percentage": "15.0%",
+                    "payments": "$1,271,305",
+                    "payments_percentage": "6.4%",
+                    "difference": "8.6% below goal"
+                }
+            },
+            "subcontractors": [
+                {
+                    "name": "Academy Energy Group, LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$62,290 (0.2%)",
+                    "paid_amount": "$62,555 (0.3%)"
+                },
+                {
+                    "name": "All Points Communications, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$176,578 (0.5%)",
+                    "paid_amount": "$165,544 (0.8%)"
+                },
+                {
+                    "name": "American Pallet Recycling LLC dba APR Service & Supply DBA APR Service & Supply",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$6,000 (0.0%)",
+                    "paid_amount": "$6,556 (0.0%)"
+                },
+                {
+                    "name": "Bissetta & List Inc DBA Bissetta & List Plumbing And Heating",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$302,896 (0.8%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "C. B. Mills Electric LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$4,500,000 (12.5%)",
+                    "paid_amount": "$1,463,380 (7.4%)"
+                },
+                {
+                    "name": "CARTER, MILCHMAN & FRANK, INC.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$12,434 (0.0%)",
+                    "paid_amount": "$91,321 (0.5%)"
+                },
+                {
+                    "name": "CARTER, MILCHMAN & FRANK, INC. (2nd-Tier)",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$45,000 (0.1%)",
+                    "paid_amount": "$211,981 (1.1%)"
+                },
+                {
+                    "name": "Cassone Leasing Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$12,066 (0.0%)",
+                    "paid_amount": "$20,431 (0.1%)"
+                },
+                {
+                    "name": "CITADEL ELECTRICAL ACQUISITION LLC DBA Citadel Electrical Supply Company",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$2,100,000 (5.9%)",
+                    "paid_amount": "$1,423,542 (7.2%)"
+                },
+                {
+                    "name": "FCS Group, LLC (2nd-Tier)",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$185,000 (0.5%)",
+                    "paid_amount": "$83,834 (0.4%)"
+                },
+                {
+                    "name": "Grant Int'l Co., Inc. DBA Grant Supplies",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$8,484 (0.0%)",
+                    "paid_amount": "$83,947 (0.4%)"
+                },
+                {
+                    "name": "Grant Int'l Co., Inc. DBA Grant Supplies",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$25,000 (0.1%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "J & L Pest Control Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$21,775 (0.1%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "Klairgar, Inc",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$280,000 (0.8%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "Montana Datacom, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$1,716,667 (4.8%)",
+                    "paid_amount": "$350,003 (1.8%)"
+                },
+                {
+                    "name": "NB Electrical Enclosures Manufacturers, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$20,000 (0.1%)",
+                    "paid_amount": "$36,887 (0.2%)"
+                },
+                {
+                    "name": "PDK Commercial Photographers, Ltd. DBA Bernstein Associates",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$20,000 (0.1%)",
+                    "paid_amount": "$16,188 (0.1%)"
+                },
+                {
+                    "name": "Professional Touch NYC LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$40,000 (0.1%)",
+                    "paid_amount": "$30,890 (0.2%)"
+                },
+                {
+                    "name": "Seiko Iron Works, Inc. (2nd-Tier)",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$899,000 (2.5%)",
+                    "paid_amount": "$101,318 (0.5%)"
+                },
+                {
+                    "name": "Turtle & Hughes Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$800,000 (2.2%)",
+                    "paid_amount": "$1,006,791 (5.1%)"
+                },
+                {
+                    "name": "VKC Systems, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$2,250,000 (6.3%)",
+                    "paid_amount": "$1,131,787 (5.7%)"
+                },
+                {
+                    "name": "Yogi Consulting Corporation DBA None",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$580,000 (1.6%)",
+                    "paid_amount": "$444,797 (2.2%)"
+                }
+            ]
+        }
+    },
+    {
+        "w32808": {
+            "contract_info": {
+                "contract_description": "PA/CIS Upgrade: Canarsie Line",
+                "contract_number": "W32808",
+                "organization": "MTA Construction & Development",
+                "status": "Open",
+                "dates": "12/28/2023 to 9/28/2026",
+                "prime_contractor": "TC ELECTRIC, LLC"
+            },
+            "award_summary": {
+                "prime_contract": {
+                    "award": "$64,622,000",
+                    "award_percentage": "",
+                    "payments": "$12,388,370",
+                    "payments_percentage": "",
+                    "difference": ""
+                },
+                "for_credit": {
+                    "award": "$19,386,600",
+                    "award_percentage": "30.0%",
+                    "payments": "$5,342,601",
+                    "payments_percentage": "43.1%",
+                    "difference": "13.1% above goal"
+                },
+                "for_credit_to_mbe_goal": {
+                    "award": "$9,693,300",
+                    "award_percentage": "15.0%",
+                    "payments": "$4,549,740",
+                    "payments_percentage": "36.7%",
+                    "difference": "21.7% above goal"
+                },
+                "for_credit_to_wbe_goal": {
+                    "award": "$9,693,300",
+                    "award_percentage": "15.0%",
+                    "payments": "$792,861",
+                    "payments_percentage": "6.4%",
+                    "difference": "8.6% below goal"
+                }
+            },
+            "subcontractors": [
+                {
+                    "name": "A G Consulting Engineering, PC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$814,237 (1.3%)",
+                    "paid_amount": "$500,246 (4.0%)"
+                },
+                {
+                    "name": "All Points Communications, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$14,217 (0.0%)",
+                    "paid_amount": "$64,547 (0.5%)"
+                },
+                {
+                    "name": "EnTech Engineering, P.C.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$290,799 (0.5%)",
+                    "paid_amount": "$45,448 (0.4%)"
+                },
+                {
+                    "name": "Garg Consulting Services, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$549,287 (0.9%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "Geri Goldman Engineering, P.C. DBA GG Engineering",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$827,162 (1.3%)",
+                    "paid_amount": "$629,280 (5.1%)"
+                },
+                {
+                    "name": "Page Ayres Cowley Architecture, LLC DBA Formerly Page Ayres Cowley Architects, LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$219,715 (0.3%)",
+                    "paid_amount": "$53,586 (0.4%)"
+                },
+                {
+                    "name": "Power Resources International, Inc. DBA PRI",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$8,045,439 (12.5%)",
+                    "paid_amount": "$3,833,023 (30.9%)"
+                },
+                {
+                    "name": "Shen Milsom & Wilke LLC DBA Shen Milsom & Wilke",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$297,261 (0.5%)",
+                    "paid_amount": "$216,471 (1.7%)"
+                }
+            ]
+        }
+    },
+    {
+        "c40838": {
+            "contract_info": {
+                "contract_description": "CAP: C40838 Rehabilitation of Pumproom 1026 at Rockwell Place, in the Borough of Brooklyn",
+                "contract_number": "C40838",
+                "organization": "MTA Construction & Development",
+                "status": "Open",
+                "dates": "12/30/2023 to 1/1/2026",
+                "prime_contractor": "FOS DEVELOPMENT CORP"
+            },
+            "award_summary": {
+                "prime_contract": {
+                    "award": "$15,122,422",
+                    "award_percentage": "",
+                    "payments": "$7,843,117",
+                    "payments_percentage": "",
+                    "difference": ""
+                },
+                "for_credit": {
+                    "award": "$5,444,072",
+                    "award_percentage": "36.0%",
+                    "payments": "$1,612,321",
+                    "payments_percentage": "20.6%",
+                    "difference": "15.4% below goal"
+                },
+                "for_credit_to_mbe_goal": {
+                    "award": "$2,268,363",
+                    "award_percentage": "15.0%",
+                    "payments": "$1,563,940",
+                    "payments_percentage": "19.9%",
+                    "difference": "4.9% above goal"
+                },
+                "for_credit_to_sdvob_goal": {
+                    "award": "$907,345",
+                    "award_percentage": "6.0%",
+                    "payments": "$0",
+                    "payments_percentage": "0.0%",
+                    "difference": "6.0% below goal"
+                },
+                "for_credit_to_wbe_goal": {
+                    "award": "$2,268,363",
+                    "award_percentage": "15.0%",
+                    "payments": "$48,381",
+                    "payments_percentage": "0.6%",
+                    "difference": "14.4% below goal"
+                }
+            },
+            "subcontractors": [
+                {
+                    "name": "50 STATES ENGINEERING, CORP.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$25,000 (0.2%)",
+                    "paid_amount": "$48,381 (0.6%)"
+                },
+                {
+                    "name": "Applemon Corporation",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$40,000 (0.3%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "Industry Safety Consultants, LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$425,000 (2.8%)",
+                    "paid_amount": "$284,674 (3.6%)"
+                },
+                {
+                    "name": "MCSB Construction LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$425,000 (2.8%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "Metrofab Pipe Inc",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$75,000 (0.5%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "Providence Construction Corp.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$300,000 (2.0%)",
+                    "paid_amount": "$126,557 (1.6%)"
+                },
+                {
+                    "name": "Seiko Iron Works, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$820,000 (5.4%)",
+                    "paid_amount": "$346,885 (4.4%)"
+                },
+                {
+                    "name": "Voltamp Electrical Contractors, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$3,250,000 (21.5%)",
+                    "paid_amount": "$805,823 (10.3%)"
+                },
+                {
+                    "name": "York Sign Industries",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$16,250 (0.1%)",
+                    "paid_amount": "$0 (0.0%)"
+                }
+            ]
+        }
+    },
+    {
+        "ch058B": {
+            "contract_info": {
+                "contract_description": "Design-Build Services for East Bound Tunnel Construction Re-route for ESA",
+                "contract_number": "CH058B",
+                "organization": "MTA Construction & Development",
+                "status": "Open",
+                "dates": "8/2/2021 to 12/31/2022",
+                "prime_contractor": "RAILROAD-MICHELS JOINT VENTURE LLC"
+            },
+            "award_summary": {
+                "prime_contract": {
+                    "award": "$159,725,733",
+                    "award_percentage": "",
+                    "payments": "$149,975,350",
+                    "payments_percentage": "",
+                    "difference": ""
+                },
+                "for_credit": {
+                    "award": "$31,945,147",
+                    "award_percentage": "20.0%",
+                    "payments": "$25,338,821",
+                    "payments_percentage": "16.9%",
+                    "difference": "3.1% below goal"
+                },
+                "for_credit_to_dbe_goal": {
+                    "award": "$31,945,147",
+                    "award_percentage": "20.0%",
+                    "payments": "$25,338,821",
+                    "payments_percentage": "16.9%",
+                    "difference": "3.1% below goal"
+                }
+            },
+            "subcontractors": [
+                {
+                    "name": "Amaracon Testing & Inspections, LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$400,000 (0.3%)",
+                    "paid_amount": "$422,146 (0.3%)"
+                },
+                {
+                    "name": "ANS Consultants Inc. (Welding Inspection & Testing Services)",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$10,000 (0.0%)",
+                    "paid_amount": "$8,350 (0.0%)"
+                },
+                {
+                    "name": "Atlantic Concrete Cutting Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$4,968 (0.0%)",
+                    "paid_amount": "$4,968 (0.0%)"
+                },
+                {
+                    "name": "Cassone Leasing Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$101,000 (0.1%)",
+                    "paid_amount": "$148,431 (0.1%)"
+                },
+                {
+                    "name": "Crossroads JV, LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$57,150 (0.0%)",
+                    "paid_amount": "$39,710 (0.0%)"
+                },
+                {
+                    "name": "D-Star Waterproofers, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$1,018,700 (0.6%)",
+                    "paid_amount": "$869,285 (0.6%)"
+                },
+                {
+                    "name": "Dynamic Pest Control, Inc. DBA na",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$21,755 (0.0%)",
+                    "paid_amount": "$21,613 (0.0%)"
+                },
+                {
+                    "name": "E-J ELECTRIC (Electrical Subcontractor (Non-Certified) - Value TBD)",
+                    "tier": 1,
+                    "type_of_goal": "",
+                    "included_in_goal": false,
+                    "contracted_amount": "$14,344,668 (9.0%)",
+                    "paid_amount": "-$313,893 (-0.2%)",
+                    "more_subcontractors": [
+                        {
+                            "name": "ACT Electrical and Data Supplies, Inc (Electrical Supplier)",
+                            "tier": 2,
+                            "type_of_goal": "Yes",
+                            "included_in_goal": true,
+                            "contracted_amount": "$1,135,000 (0.7%)",
+                            "paid_amount": "$0 (0.0%)"
+                        },
+                        {
+                            "name": "ACT Electrical and Data Supplies, Inc (LT sub to EJ ELECTRIC)",
+                            "tier": 2,
+                            "type_of_goal": "Yes",
+                            "included_in_goal": true,
+                            "contracted_amount": "$12,000 (0.0%)",
+                            "paid_amount": "$1,454,295 (1.0%)"
+                        },
+                        {
+                            "name": "C. B. Mills Electric LLC (2nd Tier to EJ Electric)",
+                            "tier": 2,
+                            "type_of_goal": "Yes",
+                            "included_in_goal": true,
+                            "contracted_amount": "$127,906 (0.1%)",
+                            "paid_amount": "$4,577,567 (3.1%)"
+                        },
+                        {
+                            "name": "Cassone Leasing Inc. (2T to EJ Electric)",
+                            "tier": 2,
+                            "type_of_goal": "Yes",
+                            "included_in_goal": true,
+                            "contracted_amount": "$75,000 (0.0%)",
+                            "paid_amount": "$124,460 (0.1%)"
+                        },
+                        {
+                            "name": "Linden Electrical Wholesalers, Inc DBA Luken Electric (2T to EJ Electric, Materials Supplier)",
+                            "tier": 2,
+                            "type_of_goal": "Yes",
+                            "included_in_goal": true,
+                            "contracted_amount": "$278,000 (0.2%)",
+                            "paid_amount": "$365,230 (0.2%)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ebony Office Products, Inc",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$48,000 (0.0%)",
+                    "paid_amount": "$75,839 (0.1%)"
+                },
+                {
+                    "name": "Elite Safety, LLC DBA Elite Consulting Managers",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$50,000 (0.0%)",
+                    "paid_amount": "$299,265 (0.2%)"
+                },
+                {
+                    "name": "GANNETT FLEMING ENGINEERS AND ARCHITECTS, PC (Non-Certified Subcontractor - DESIGN)",
+                    "tier": 1,
+                    "type_of_goal": "",
+                    "included_in_goal": false,
+                    "contracted_amount": "$15,628,703 (9.8%)",
+                    "paid_amount": "-$158,806 (-0.1%)",
+                    "more_subcontractors": [
+                        {
+                            "name": "New York Geomatics Inc. DBA DC Geomatics (3rd Tier to GF)",
+                            "tier": 2,
+                            "type_of_goal": "Yes",
+                            "included_in_goal": true,
+                            "contracted_amount": "$196,640 (0.1%)",
+                            "paid_amount": "$273,121 (0.2%)"
+                        },
+                        {
+                            "name": "PACO Group, Inc. (2nd Tier to GF)",
+                            "tier": 2,
+                            "type_of_goal": "Yes",
+                            "included_in_goal": true,
+                            "contracted_amount": "$147,230 (0.1%)",
+                            "paid_amount": "$232,915 (0.2%)"
+                        }
+                    ]
+                },
+                {
+                    "name": "GCCOM Construction Company, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$750,000 (0.5%)",
+                    "paid_amount": "$766,792 (0.5%)"
+                },
+                {
+                    "name": "HAMPTON-CLARKE, INC.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$122,750 (0.1%)",
+                    "paid_amount": "$98,826 (0.1%)"
+                },
+                {
+                    "name": "Jersey Boring & Drilling Co., Inc. (1st Tier to RCC-Michels)",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$26,750 (0.0%)",
+                    "paid_amount": "$17,661 (0.0%)"
+                },
+                {
+                    "name": "Jersey Boring & Drilling Co., Inc. (2nd Tier to MRCE)",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$196,746 (0.1%)",
+                    "paid_amount": "$196,746 (0.1%)"
+                },
+                {
+                    "name": "JNJ Rebar, LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$3,100,000 (1.9%)",
+                    "paid_amount": "$4,441,733 (3.0%)"
+                },
+                {
+                    "name": "JOADEM Corporation",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$400,000 (0.3%)",
+                    "paid_amount": "$528,919 (0.4%)"
+                },
+                {
+                    "name": "Joes Pest Control LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$58,088 (0.0%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "John Martinez Trucking",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$4,500,000 (2.8%)",
+                    "paid_amount": "$6,277,011 (4.2%)"
+                },
+                {
+                    "name": "Malcolm Patrick Corporation",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$1,110,652 (0.7%)",
+                    "paid_amount": "$685,692 (0.5%)"
+                },
+                {
+                    "name": "MFS Consulting Engineers & Surveyor, DPC (2nd Tier to MRCE - 100% CREDIT)",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$112,845 (0.1%)",
+                    "paid_amount": "$62,481 (0.0%)"
+                },
+                {
+                    "name": "MFS Consulting Engineers & Surveyor, DPC (2nd Tier to MRCE - 60% CREDIT)",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$708,675 (0.4%)",
+                    "paid_amount": "$403,006 (0.3%)"
+                },
+                {
+                    "name": "MP Engineers & Architects, P.C.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$431,200 (0.3%)",
+                    "paid_amount": "$481,913 (0.3%)"
+                },
+                {
+                    "name": "Naughton Energy Corporation",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$390,000 (0.2%)",
+                    "paid_amount": "$396,743 (0.3%)"
+                },
+                {
+                    "name": "New York Geomatics Inc. DBA DC Geomatics",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$913,500 (0.6%)",
+                    "paid_amount": "$1,036,265 (0.7%)"
+                },
+                {
+                    "name": "NJ&C Associates Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$62,973 (0.0%)",
+                    "paid_amount": "$47,573 (0.0%)"
+                },
+                {
+                    "name": "PDK Commercial Photographers, Ltd. DBA Bernstein Associates",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$23,200 (0.0%)",
+                    "paid_amount": "$28,630 (0.0%)"
+                },
+                {
+                    "name": "Professional Touch NYC LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$38,225 (0.0%)",
+                    "paid_amount": "$44,863 (0.0%)"
+                },
+                {
+                    "name": "Rizzo Associates Inc",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$125,000 (0.1%)",
+                    "paid_amount": "$262,120 (0.2%)"
+                },
+                {
+                    "name": "Tri-State Civil Construction, LLC.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$2,180,000 (1.4%)",
+                    "paid_amount": "$1,545,670 (1.0%)"
+                },
+                {
+                    "name": "William G. Moore & Son, Inc. of Delaware (Supplier)",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$30,552 (0.0%)",
+                    "paid_amount": "$30,552 (0.0%)"
+                }
+            ]
+        }
+    },
+    {
+        "a37130": null
+    },
+    {
+        "1000144457": null
+    },
+    {
+        "p36721": {
+            "contract_info": {
+                "contract_description": "High Tension Component Bundle",
+                "contract_number": "P36721",
+                "organization": "MTA Construction & Development",
+                "status": "Open",
+                "dates": "7/3/2023 to 7/2/2025",
+                "prime_contractor": "LK Comstock And Co Inc"
+            },
+            "award_summary": {
+                "prime_contract": {
+                    "award": "$35,684,629",
+                    "award_percentage": "",
+                    "payments": "$14,777,245",
+                    "payments_percentage": "",
+                    "difference": ""
+                },
+                "for_credit": {
+                    "award": "$8,029,042",
+                    "award_percentage": "22.5%",
+                    "payments": "$2,415,706",
+                    "payments_percentage": "16.3%",
+                    "difference": "6.2% below goal"
+                },
+                "for_credit_to_dbe_goal": {
+                    "award": "$8,029,042",
+                    "award_percentage": "22.5%",
+                    "payments": "$2,415,706",
+                    "payments_percentage": "16.3%",
+                    "difference": "6.2% below goal"
+                }
+            },
+            "subcontractors": [
+                {
+                    "name": "ACT Electrical and Data Supplies, Inc",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$100,000 (0.3%)",
+                    "paid_amount": "$345,354 (2.3%)"
+                },
+                {
+                    "name": "All Points Communications, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$50,000 (0.1%)",
+                    "paid_amount": "$87,470 (0.6%)"
+                },
+                {
+                    "name": "Cassone Leasing Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$40,000 (0.1%)",
+                    "paid_amount": "$7,430 (0.1%)"
+                },
+                {
+                    "name": "Crossroads JV, LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$585,000 (1.6%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "Eastern Landscape Contractors, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$77,000 (0.2%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "EDD Electrical Distributors, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$659,450 (1.8%)",
+                    "paid_amount": "$287,329 (1.9%)"
+                },
+                {
+                    "name": "Glenridge Fabricators, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$1,425,000 (4.0%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "L B Consulting Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$50,000 (0.1%)",
+                    "paid_amount": "$23,400 (0.2%)"
+                },
+                {
+                    "name": "Mountain Man Sand & Gravel LLC DBA Concrete Solutions",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$58,000 (0.2%)",
+                    "paid_amount": "$20,123 (0.1%)"
+                },
+                {
+                    "name": "New York Geomatics Inc. DBA DC Geomatics",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$45,000 (0.1%)",
+                    "paid_amount": "$2,921 (0.0%)"
+                },
+                {
+                    "name": "PDK Commercial Photographers, Ltd. DBA Bernstein Associates",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$24,475 (0.1%)",
+                    "paid_amount": "$7,239 (0.0%)"
+                },
+                {
+                    "name": "Professional Touch NYC LLC",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$167,400 (0.5%)",
+                    "paid_amount": "$50,782 (0.3%)"
+                },
+                {
+                    "name": "ProjectSpan, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$711,229 (2.0%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "ProjectSpan, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$5,768,685 (16.2%)",
+                    "paid_amount": "$3,065,151 (20.7%)"
+                },
+                {
+                    "name": "Rizzo Associates Inc",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$60,000 (0.2%)",
+                    "paid_amount": "$0 (0.0%)"
+                },
+                {
+                    "name": "Total Electrical Distributors, Inc. DBA Total Electric Distributors, Inc.",
+                    "tier": 1,
+                    "type_of_goal": "Yes",
+                    "included_in_goal": true,
+                    "contracted_amount": "$200,000 (0.6%)",
+                    "paid_amount": "$54,380 (0.4%)"
+                }
+            ]
+        }
+    },
+    {
+        "tn87": null
+    },
+    {
+        "aw73": null
+    }
+]

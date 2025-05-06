@@ -1,0 +1,4 @@
+seleniumbase
+parsel
+tenacity
+screeninfo
