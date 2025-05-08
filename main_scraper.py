@@ -250,7 +250,7 @@ class MySuperFastScraper:
 
 async def main():
     search_terms = load_input()
-    my_scraper = MySuperFastScraper(search_terms[:2])
+    my_scraper = MySuperFastScraper(search_terms)
     final_results, mismatched_contracts = await my_scraper.scrape_contracts()
     save_data(final_results)
 

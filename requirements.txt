@@ -2,3 +2,4 @@ seleniumbase
 parsel
 tenacity
 screeninfo
+aiohttp

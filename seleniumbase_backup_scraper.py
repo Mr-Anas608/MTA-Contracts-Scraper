@@ -334,6 +334,6 @@ if __name__ == "__main__":
     scraper = ContractsScraper(max_workers=10)
     
     # Scrape contracts
-    results = scraper.scrape_contracts(contract_searches[:1])
+    results = scraper.scrape_contracts(contract_searches)
     
     save_data(results)
